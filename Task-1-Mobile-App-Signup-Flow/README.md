@@ -25,13 +25,13 @@ ShieldPass is a cybersecurity-themed mobile authentication flow designed as part
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](Splash%20screen.png)
+![Splash Screen](splash-screen.png)
 
 ### Welcome Screen
-![Welcome Screen](Welcome%20Screen.png)
+![Welcome Screen](welcome-screen.png)
 
 ### Login Screen
-![Login Screen](Login%20Screen.png)
+![Login Screen](login-screen.png)
 
 ### Success Screen
-![Success Screen](Success%20Screen.png)
+![Success Screen](success-screen.png)
